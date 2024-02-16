@@ -1,5 +1,6 @@
 # Pokémon Image Classifier
 
+![showcase](https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/a75f3353-1551-49c1-9da6-3f7fb9d851db)
 
 ## Project Overview
 This project is a web-based application designed to classify images of Pokémon using a machine learning model and dynamically generate silhouettes of the uploaded images. It serves as an interactive tool for Pokémon enthusiasts and showcases the integration of machine learning models in web applications for image recognition and manipulation.
