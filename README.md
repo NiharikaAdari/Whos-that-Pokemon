@@ -1,14 +1,23 @@
 # Pokémon Image Classifier
 
-![showcase](https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/a75f3353-1551-49c1-9da6-3f7fb9d851db)
+
 
 ## Project Overview
 This project is a web-based application designed to classify images of Pokémon using a machine learning model and dynamically generate silhouettes of the uploaded images. It serves as an interactive tool for Pokémon enthusiasts and showcases the integration of machine learning models in web applications for image recognition and manipulation.
+
+<img width="1263" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/b81719c4-641c-4268-8cb2-4587981e2e83">
+<img width="1251" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/05f0e712-2143-4051-a95d-a58d3b55ecb9">
+<img width="1261" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/20c44398-5cab-4fbd-99b7-290cdff87670">
+
+
+
+![showcase](https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/a75f3353-1551-49c1-9da6-3f7fb9d851db)
 
 ## Features
 - **Image Classification:** Utilizes a Convolutional Neural Network (CNN) to classify Generation 1 Pokémon images, identifying the Pokémon's name from an uploaded image.
 - **Silhouette Generation:** Transforms uploaded images into black silhouettes, offering users a fun way to guess the Pokémon before seeing the classification results.
 - **Interactive Web Interface:** A user-friendly web interface that allows users to upload images, view silhouettes, and receive instant classification results.
+- **Play Sound!** hear the classic, "Who's that Pokemon?" from the show!
   
 ## Technologies Used
 - **TensorFlow & Keras:** For designing, training, and deploying the CNN model.
