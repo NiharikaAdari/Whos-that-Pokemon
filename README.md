@@ -37,8 +37,8 @@ This project is a web-based application designed to classify images of Pokémon 
 - **Result Display:** The application displays the original image, its silhouette, and the classification result (Pokémon's name) alongside the model's confidence level.
 
 ## Project Structure
-app.py: Flask application file containing route definitions and model loading.
-model/: Directory containing the trained TensorFlow/Keras model.
-static/: Contains static files like CSS, JavaScript, and images used in the web interface.
-templates/: HTML files for the web interface.
-model.ipynb: CNN model 
+- app.py: Flask application file containing route definitions and model loading.
+- model/: Directory containing the trained TensorFlow/Keras model.
+- static/: Contains static files like CSS, JavaScript, and images used in the web interface.
+- templates/: HTML files for the web interface.
+- model.ipynb: CNN model 
