@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <style>
+        
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+            background-image: url("static/images/caughtone.jpg");
+            background-position: center center; 
+            background-repeat: no-repeat;
+            background-size: cover; 
+            background-attachment: fixed; 
+        }
+        .result-container {
+            background-color: #f8f8f8;
+            border-radius: 15px;
+            padding: 20px;
+            margin: auto;
+            width: 20%;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            margin-left: 5%;
+            margin-top: 5%;
+        }
+        .pokemon-name {
+            font-size: 2em;
+            color: #333;
+        }
+        .probability {
+            font-size: 1em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<div class="result-container">
+    <div class="pokemon-name">{{ pokemon }}</div>
+    <div class="probability">Probability: {{ '%.2f' | format(probability) }}</div>
+    
+</div>
+
+</body>
+</html>
