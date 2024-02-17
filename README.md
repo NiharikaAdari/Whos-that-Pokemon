@@ -7,6 +7,7 @@ This project is a web-based application designed to classify images of Pokémon 
 
 <img width="1263" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/b81719c4-641c-4268-8cb2-4587981e2e83">
 <img width="1251" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/05f0e712-2143-4051-a95d-a58d3b55ecb9">
+<img width="950" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/c38f7a40-0e09-4d92-b78c-a1e88641914f">
 
 
 
