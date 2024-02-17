@@ -8,6 +8,7 @@ This project is a web-based application designed to classify images of Pokémon 
 <img width="1263" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/b81719c4-641c-4268-8cb2-4587981e2e83">
 <img width="1251" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/05f0e712-2143-4051-a95d-a58d3b55ecb9">
 <img width="1261" alt="image" src="https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/20c44398-5cab-4fbd-99b7-290cdff87670">
+![image](https://github.com/NiharikaAdari/Whos-that-Pokemon/assets/130190699/f4743a37-1d7c-41e1-ad4c-4d09c2716ce5)
 
 
 
@@ -23,7 +24,7 @@ This project is a web-based application designed to classify images of Pokémon 
 - **TensorFlow & Keras:** For designing, training, and deploying the CNN model.
 - **Flask:** A lightweight WSGI web application framework used to serve the model and handle web requests.
 - **HTML/CSS/JavaScript:** For building the interactive front-end.
-- **Jupyer Notebook**
+- **Jupyter Notebook**
   
 ## How It Works
 - **Model Training:** The CNN model is trained on a dataset containing images of all Generation 1 Pokémon, with each class representing a different Pokémon. The model learns to recognize various features and characteristics unique to each Pokémon.
