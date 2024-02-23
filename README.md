@@ -22,12 +22,14 @@ This project is a web-based application designed to classify images of Pokémon 
 - **Silhouette Generation:** Transforms uploaded images into black silhouettes, offering users a fun way to guess the Pokémon before seeing the classification results.
 - **Interactive Web Interface:** A user-friendly web interface that allows users to upload images, view silhouettes, and receive instant classification results.
 - **Play Sound!** hear the classic, "Who's that Pokemon?" from the show!
+- **Sprite** See the pokemon's game sprite, and play it's cry!
   
 ## Technologies Used
 - **TensorFlow & Keras:** For designing, training, and deploying the CNN model.
 - **Flask:** A lightweight WSGI web application framework used to serve the model and handle web requests.
 - **HTML/CSS/JavaScript:** For building the interactive front-end.
 - **Jupyter Notebook**
+- **APIs** : For getting the pokemon sprites/cries https://pokeapi.co/docs/v2#pokemon
   
 ## How It Works
 - **Model Training:** The CNN model is trained on a dataset containing images of all Generation 1 Pokémon, with each class representing a different Pokémon. The model learns to recognize various features and characteristics unique to each Pokémon.
